@@ -23,18 +23,8 @@
 "Categories": [
 {
 "id": 1,
-"name_category": "",
-"image": ""
-},
-{
-"id": 2,
-"name_category": "",
-"image": ""
-},
-{
-"id": 3,
-"name_category": "",
-"image": ""
+"name_category": "Ustadz Hanan Attaki",
+"image": "https://img.okezone.com/content/2020/01/08/614/2150568/ustadz-hanan-attaki-ajak-muslim-bersih-bersih-masjid-yang-terkena-banjir-lvHE18sBgj.jpg"
 }
 ],
   
@@ -43,28 +33,10 @@
 "Data": [
 {
 "id": 1,
-"name_category": "",
-"title": "",
-"image": "",
-"link_mp3": "",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 2,
-"name_category": "",
-"title": "",
-"image": "",
-"link_mp3": "",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 3,
-"name_category": "",
-"title": "",
-"image": "",
-"link_mp3": "",
+"name_category": "Ustadz Hanan Attaki",
+"title": "Aku Mencintaimu Karena Allah",
+"image": "https://img.okezone.com/content/2020/01/08/614/2150568/ustadz-hanan-attaki-ajak-muslim-bersih-bersih-masjid-yang-terkena-banjir-lvHE18sBgj.jpg",
+"link_mp3": "https://archive.org/download/CeramahUstHananAttaki/Aku%20Mencintaimu%20Karena%20Allah%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
 "duration": "175",
 "lyrics": ""
 }
