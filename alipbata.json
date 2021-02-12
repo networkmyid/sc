@@ -23,13 +23,13 @@
 "Categories": [
 {
 "id": 1,
-"name_category": "Ustadz Hanan Attaki",
-"image": "https://img.okezone.com/content/2020/01/08/614/2150568/ustadz-hanan-attaki-ajak-muslim-bersih-bersih-masjid-yang-terkena-banjir-lvHE18sBgj.jpg"
+"name_category": "West Guitar Style",
+"image": "https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
 },
  {
 "id": 2,
-"name_category": "Khalid Basalamah",
-"image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/1469444/1469444-1551253073015-0996a7d2bd44b.jpg"
+"name_category": "Indonesian Guitar Style",
+"image": "https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
 }
 ],
   
@@ -38,19 +38,91 @@
 "Data": [
 {
 "id": 1,
-"name_category": "Ustadz Hanan Attaki",
-"title": "Aku Mencintaimu Karena Allah",
-"image": "https://img.okezone.com/content/2020/01/08/614/2150568/ustadz-hanan-attaki-ajak-muslim-bersih-bersih-masjid-yang-terkena-banjir-lvHE18sBgj.jpg",
-"link_mp3": "https://archive.org/download/CeramahUstHananAttaki/Aku%20Mencintaimu%20Karena%20Allah%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+"name_category": "Indonesian Guitar Style",
+"title": "Balinese (Original Finger Style)",
+"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
+"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/Balinese%20%28Original%20Finger%20Style%29%29.mp3",
 "duration": "175",
 "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
 },
 {
 "id": 2,
-"name_category": "Khalid Basalamah",
-"title": "Siapa yang bangkrut?",
-"image": "https://awsimages.detik.net.id/community/media/visual/2020/08/09/khalid-basalamah_43.png?w=700&q=90",
-"link_mp3": "http://aliendro.id/mp3json/mp3/bangkrut.mp3",
+"name_category": "Indonesian Guitar Style",
+"title": "Cinta Mati - Ahmad Dhani (Finger Style)",
+"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
+"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/Cinta%20Mati%20-%20Ahmad%20Dhani%20%28Finger%20Style%29.mp3",
+"duration": "56",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+},
+{
+"id": 3,
+"name_category": "West Guitar Style",
+"title": "DORAEMON theme song (Finger Style)",
+"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
+"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/DORAEMON%20theme%20song%20%28Finger%20Style%29.mp3",
+"duration": "175",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+},
+{
+"id": 4,
+"name_category": "Indonesian Guitar Style",
+"title": "Dewa 19 - pupus (Finger Style)",
+"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
+"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/Dewa%2019%20-%20pupus%20%28Finger%20Style%29.mp3",
+"duration": "56",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+},
+{
+"id": 5,
+"name_category": "West Guitar Style",
+"title": "QUEEN - Love of My Life (Finger Style)",
+"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
+"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/QUEEN%20-%20Love%20of%20My%20Life%20%28Finger%20Style%29.mp3",
+"duration": "175",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+},
+{
+"id": 6,
+"name_category": "West Guitar Style",
+"title": "SUPER MARIO BROS Theme Song (Finger Style)",
+"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
+"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/SUPER%20MARIO%20BROS%20Theme%20Song%20%28Finger%20Style%29.mp3",
+"duration": "56",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+},
+{
+"id": 7,
+"name_category": "Indonesian Guitar Style",
+"title": "TOHPATI - Selaras (Finger Style)",
+"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
+"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/TOHPATI%20-%20Selaras%20%28Finger%20Style%29.mp3",
+"duration": "175",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+},
+{
+"id": 9,
+"name_category": "Indonesian Guitar Style",
+"title": "Tanah Airku (Ibu Sud) - (Finger Style)",
+"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
+"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/Tanah%20Airku%20%28Ibu%20Sud%29%20-%20%28Finger%20Style%29.mp3",
+"duration": "56",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+},
+{
+"id": 10,
+"name_category": "Indonesian Guitar Style",
+"title": "Tetty Kadi - Sepanjang Jalan Kenangan (Finger Style)",
+"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
+"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/Tetty%20Kadi%20-%20Sepanjang%20Jalan%20Kenangan%20%28Finger%20Style%29.mp3",
+"duration": "175",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+},
+{
+"id": 11,
+"name_category": "Indonesian Guitar Style",
+"title": "Wali - Yank (Finger Style)",
+"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
+"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/Wali%20-%20Yank%20%28Finger%20Style%29.mp3",
 "duration": "56",
 "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
 }
