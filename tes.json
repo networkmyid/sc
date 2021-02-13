@@ -7,7 +7,7 @@
 "admob_interid": "ca-app-pub-3940256099942544/1033173712",
 "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
 "admob_openid": "ca-app-pub-3940256099942544/1033173712",
-"interval_intertitial": "5",
+"interval_intertitial": "10",
 "startappid": "201669628",
 "fan_inter": "YOUR_PLACEMENT_ID",
 "fan_banner": "YOUR_PLACEMENT_ID",
@@ -26,9 +26,14 @@
 "name_category": "West Guitar Style",
 "image": "https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
 },
- {
+{
 "id": 2,
 "name_category": "Indonesian Guitar Style",
+"image": "https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
+},
+{
+"id": 3,
+"name_category": "Japanese Guitar Style",
 "image": "https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png"
 }
 ],
@@ -37,93 +42,48 @@
   
 "Data": [
 {
-"id": 1,
-"name_category": "Indonesian Guitar Style",
-"title": "Balinese (Original Finger Style)",
+"id": 3,
+"name_category": "Japanese Guitar Style",
+"title": "DORAEMON (Finger Style)",
 "image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png",
-"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/Balinese%20%28Original%20Finger%20Style%29%29.mp3",
-"duration": "175",
+"link_mp3": "file:///android_asset/mp3/DORAEMON.mp3",
+"duration": "01:05",
 "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
 },
 {
 "id": 1,
-"name_category": "Indonesian Guitar Style",
-"title": "Cinta Mati - Ahmad Dhani (Finger Style)",
+"name_category": "West Guitar Style",
+"title": "Queen - Bohemian Rhapsody (Finger Style)",
 "image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png",
-"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/Cinta%20Mati%20-%20Ahmad%20Dhani%20%28Finger%20Style%29.mp3",
-"duration": "56",
+"link_mp3": "file:///android_asset/mp3/Queen-Bohemian-Rhapsody.mp3",
+"duration": "05:56",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+},
+{
+"id": 1,
+"name_category": "West Guitar Style",
+"title": "Sweet Child Of Mine - Guns n Roses (Finger Style)",
+"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png",
+"link_mp3": "file:///android_asset/mp3/Sweet-Child-Of-Mine.mp3",
+"duration": "03:41",
 "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
 },
 {
 "id": 2,
-"name_category": "West Guitar Style",
-"title": "DORAEMON theme song (Finger Style)",
-"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png",
-"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/DORAEMON%20theme%20song%20%28Finger%20Style%29.mp3",
-"duration": "175",
-"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
-},
-{
-"id": 1,
-"name_category": "Indonesian Guitar Style",
-"title": "Dewa 19 - pupus (Finger Style)",
-"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png",
-"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/Dewa%2019%20-%20pupus%20%28Finger%20Style%29.mp3",
-"duration": "56",
-"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
-},
-{
-"id": 2,
-"name_category": "West Guitar Style",
-"title": "QUEEN - Love of My Life (Finger Style)",
-"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png",
-"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/QUEEN%20-%20Love%20of%20My%20Life%20%28Finger%20Style%29.mp3",
-"duration": "175",
-"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
-},
-{
-"id": 2,
-"name_category": "West Guitar Style",
-"title": "SUPER MARIO BROS Theme Song (Finger Style)",
-"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png",
-"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/SUPER%20MARIO%20BROS%20Theme%20Song%20%28Finger%20Style%29.mp3",
-"duration": "56",
-"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
-},
-{
-"id": 1,
-"name_category": "Indonesian Guitar Style",
-"title": "TOHPATI - Selaras (Finger Style)",
-"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png",
-"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/TOHPATI%20-%20Selaras%20%28Finger%20Style%29.mp3",
-"duration": "175",
-"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
-},
-{
-"id": 1,
-"name_category": "Indonesian Guitar Style",
-"title": "Tanah Airku (Ibu Sud) - (Finger Style)",
-"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png",
-"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/Tanah%20Airku%20%28Ibu%20Sud%29%20-%20%28Finger%20Style%29.mp3",
-"duration": "56",
-"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
-},
-{
-"id": 1,
-"name_category": "Indonesian Guitar Style",
-"title": "Tetty Kadi - Sepanjang Jalan Kenangan (Finger Style)",
-"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png",
-"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/Tetty%20Kadi%20-%20Sepanjang%20Jalan%20Kenangan%20%28Finger%20Style%29.mp3",
-"duration": "175",
-"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
-},
-{
-"id": 1,
 "name_category": "Indonesian Guitar Style",
 "title": "Wali - Yank (Finger Style)",
 "image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png",
-"link_mp3": "https://archive.org/download/dewa-19-pupus-finger-style/Wali%20-%20Yank%20%28Finger%20Style%29.mp3",
-"duration": "56",
+"link_mp3": "file:///android_asset/mp3/Wali-Yank.mp3",
+"duration": "04:20",
+"lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
+},
+{
+"id": 3,
+"name_category": "Japanese Guitar Style",
+"title": "Yiruma - River flows in You (Finger Style)",
+"image":"https://1.bp.blogspot.com/-jtK6ig9HI7M/YCcI_6a1b6I/AAAAAAAAAeA/SQSv0wELSdsIgVgw4gRKhii9PhKkXkEzwCLcBGAsYHQ/w400-h400/icon.png",
+"link_mp3": "file:///android_asset/mp3/Yiruma-River-flows-in-You.mp3",
+"duration": "04:20",
 "lyrics": "<p><span style=\"color:#ffffff\"><strong>Selamat menikmati audio music mp3</strong><br />\r\n<strong>Jangan lupa rating 5 bintangnya</strong><br />\r\n<strong>Jika anda suka dengan aplikasi music mp3 ini</strong><br />\r\n<strong>Terimakasih</strong></span></p>\r\n"
 }
 ]
